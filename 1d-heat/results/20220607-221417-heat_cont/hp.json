@@ -1,0 +1,1 @@
+{"N_u": 100, "N_f": 10000, "layers": [2, 20, 20, 20, 20, 20, 20, 20, 20, 1], "tf_epochs": 100, "tf_lr": 0.03, "tf_b1": 0.9, "tf_eps": null, "nt_epochs": 100, "nt_lr": 0.8, "nt_ncorr": 50, "log_frequency": 10}
